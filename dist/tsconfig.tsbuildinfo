@@ -1,0 +1,457 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es6.d.ts": {
+        "version": "721cec59c3fef87aaf480047d821fb758b3ec9482c4129a54631e6e25e432a31",
+        "signature": "721cec59c3fef87aaf480047d821fb758b3ec9482c4129a54631e6e25e432a31",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "signature": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "signature": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "fb0c09b697dc42afa84d1587e3c994a2f554d2a45635e4f0618768d16a86b69a",
+        "signature": "fb0c09b697dc42afa84d1587e3c994a2f554d2a45635e4f0618768d16a86b69a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../src/app.service.ts": {
+        "version": "5d4242d50092a353e5ab1f06663a89dbc714c7d9d70072ea03c83c5b14750f05",
+        "signature": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2",
+        "affectsGlobalScope": false
+      },
+      "../src/app.controller.ts": {
+        "version": "b59ed33bffff6184aeee28b96a5b5d3ed6a55debae74b52bd7c536e34170bbae",
+        "signature": "44f6a0f8d77ac919ca5ffd28155ea5dd96fa49d58f4432ba73c4cf652c40586d",
+        "affectsGlobalScope": false
+      },
+      "../src/products/product.model.ts": {
+        "version": "df791bed1847c76bc2600cca341fee439409c92d0adff266618cc8a5fa5739d4",
+        "signature": "cbd9e532f6efc02f3696c6643c0108f06f4332e41be64a15df263ee3848e54c4",
+        "affectsGlobalScope": false
+      },
+      "../src/products/products.service.ts": {
+        "version": "124da3d4982737adf0184dad6f277ddbaf92e8081405069c485c08c0c160a27e",
+        "signature": "6059d57fe1dde209a890d2f6008a9716e1d45f127f3e3c2a9d8e64c742095f46",
+        "affectsGlobalScope": false
+      },
+      "../src/products/products.controller.ts": {
+        "version": "74a15532cebcaca6bfd05e28fc7e4b670f702bf264b0dd9ab5aa65b0e5b390cb",
+        "signature": "38d387a565a2a54db6c799aaeba17f768f79c481a6fc640f2b102e0740bbbb3f",
+        "affectsGlobalScope": false
+      },
+      "../src/products/products.module.ts": {
+        "version": "ee3e11bc0084cf64fa2b818ee1f0f1ba5d2656e81b3ff91202850d1134cd5fdf",
+        "signature": "8857a2a959eb0ee870d0adb812e0d41a0e12796ec0c1d85f8416e82bcf51ca03",
+        "affectsGlobalScope": false
+      },
+      "../src/app.module.ts": {
+        "version": "b1b05bb80e9027bf7a1a16e2f8a99b91d88c664d45c89209b8305b7390ee94e9",
+        "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644",
+        "affectsGlobalScope": false
+      },
+      "../src/main.ts": {
+        "version": "2ddc52f11f933dd9f5ecb40aa471aa1efa23f376bf1f0cc535d41fc871b23ff0",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "affectsGlobalScope": false
+      },
+      "../test/app.e2e-spec.ts": {
+        "version": "8803f9012f69cc984116bc4b13d7804157ccdbeeb5e6e8ff96f203d9c1143231",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "module": 1,
+      "declaration": true,
+      "removeComments": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "target": 2,
+      "sourceMap": true,
+      "outDir": "./",
+      "baseUrl": "..",
+      "incremental": true,
+      "pretty": false,
+      "noEmit": true,
+      "watch": true,
+      "listFiles": true,
+      "project": "../tsconfig.json",
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../src/app.controller.ts": [
+        "../src/app.service.ts"
+      ],
+      "../src/app.module.ts": [
+        "../src/app.controller.ts",
+        "../src/app.service.ts",
+        "../src/products/products.module.ts"
+      ],
+      "../src/main.ts": [
+        "../src/app.module.ts"
+      ],
+      "../src/products/products.controller.ts": [
+        "../src/products/products.service.ts"
+      ],
+      "../src/products/products.module.ts": [
+        "../src/products/product.model.ts",
+        "../src/products/products.controller.ts",
+        "../src/products/products.service.ts"
+      ],
+      "../src/products/products.service.ts": [
+        "../src/products/product.model.ts"
+      ],
+      "../test/app.e2e-spec.ts": [
+        "../src/app.module.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../src/app.controller.ts": [
+        "../src/app.service.ts"
+      ],
+      "../src/products/products.controller.ts": [
+        "../src/products/products.service.ts"
+      ],
+      "../src/products/products.service.ts": [
+        "../src/products/product.model.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es6.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      [
+        "../src/app.controller.ts",
+        [
+          {
+            "file": "../src/app.controller.ts",
+            "start": 40,
+            "length": 16,
+            "messageText": "Cannot find module '@nestjs/common' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/app.module.ts",
+        [
+          {
+            "file": "../src/app.module.ts",
+            "start": 23,
+            "length": 16,
+            "messageText": "Cannot find module '@nestjs/common' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/app.module.ts",
+            "start": 73,
+            "length": 18,
+            "messageText": "Cannot find module '@nestjs/mongoose' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/app.service.ts",
+        [
+          {
+            "file": "../src/app.service.ts",
+            "start": 27,
+            "length": 16,
+            "messageText": "Cannot find module '@nestjs/common' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/main.ts",
+        [
+          {
+            "file": "../src/main.ts",
+            "start": 28,
+            "length": 14,
+            "messageText": "Cannot find module '@nestjs/core' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/main.ts",
+            "start": 90,
+            "length": 17,
+            "messageText": "Cannot find module '@nestjs/swagger' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/products/product.model.ts",
+        [
+          {
+            "file": "../src/products/product.model.ts",
+            "start": 26,
+            "length": 10,
+            "messageText": "Cannot find module 'mongoose' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/products/products.controller.ts",
+        [
+          {
+            "file": "../src/products/products.controller.ts",
+            "start": 107,
+            "length": 16,
+            "messageText": "Cannot find module '@nestjs/common' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/products/products.controller.ts",
+            "start": 150,
+            "length": 9,
+            "messageText": "Cannot find module 'express' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/products/products.module.ts",
+        [
+          {
+            "file": "../src/products/products.module.ts",
+            "start": 23,
+            "length": 16,
+            "messageText": "Cannot find module '@nestjs/common' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/products/products.module.ts",
+            "start": 73,
+            "length": 18,
+            "messageText": "Cannot find module '@nestjs/mongoose' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/products/products.service.ts",
+        [
+          {
+            "file": "../src/products/products.service.ts",
+            "start": 46,
+            "length": 16,
+            "messageText": "Cannot find module '@nestjs/common' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/products/products.service.ts",
+            "start": 93,
+            "length": 18,
+            "messageText": "Cannot find module '@nestjs/mongoose' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/products/products.service.ts",
+            "start": 136,
+            "length": 10,
+            "messageText": "Cannot find module 'mongoose' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/products/products.service.ts",
+            "start": 1918,
+            "length": 4,
+            "code": 2339,
+            "category": 1,
+            "messageText": "Property 'save' does not exist on type 'Product'."
+          }
+        ]
+      ],
+      [
+        "../test/app.e2e-spec.ts",
+        [
+          {
+            "file": "../test/app.e2e-spec.ts",
+            "start": 36,
+            "length": 17,
+            "messageText": "Cannot find module '@nestjs/testing' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../test/app.e2e-spec.ts",
+            "start": 81,
+            "length": 11,
+            "messageText": "Cannot find module 'supertest' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../test/app.e2e-spec.ts",
+            "start": 147,
+            "length": 8,
+            "messageText": "Cannot find name 'describe'. Do you need to install type definitions for a test runner? Try `npm i @types/jest` or `npm i @types/mocha`.",
+            "category": 1,
+            "code": 2582
+          },
+          {
+            "file": "../test/app.e2e-spec.ts",
+            "start": 204,
+            "length": 10,
+            "messageText": "Cannot find name 'beforeEach'.",
+            "category": 1,
+            "code": 2304
+          },
+          {
+            "file": "../test/app.e2e-spec.ts",
+            "start": 439,
+            "length": 2,
+            "messageText": "Cannot find name 'it'. Do you need to install type definitions for a test runner? Try `npm i @types/jest` or `npm i @types/mocha`.",
+            "category": 1,
+            "code": 2582
+          }
+        ]
+      ]
+    ],
+    "affectedFilesPendingEmit": [
+      [
+        "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es2015.d.ts",
+        1
+      ],
+      [
+        "../../../../../../.vscode/extensions/basarat.god-0.0.99/node_modules/typescript/lib/lib.es6.d.ts",
+        1
+      ],
+      [
+        "../src/app.controller.ts",
+        1
+      ],
+      [
+        "../src/app.module.ts",
+        1
+      ],
+      [
+        "../src/app.service.ts",
+        1
+      ],
+      [
+        "../src/main.ts",
+        1
+      ],
+      [
+        "../src/products/product.model.ts",
+        1
+      ],
+      [
+        "../src/products/products.controller.ts",
+        1
+      ],
+      [
+        "../src/products/products.module.ts",
+        1
+      ],
+      [
+        "../src/products/products.service.ts",
+        1
+      ],
+      [
+        "../test/app.e2e-spec.ts",
+        1
+      ]
+    ]
+  },
+  "version": "4.0.3"
+}

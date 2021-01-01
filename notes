@@ -1,0 +1,61 @@
+1. controller 
+    getTodos()
+    getTodo()
+    createTodo()
+    updateTodo()
+    deleteTodo()
+2. services
+    getTodos service
+    getTodo service
+    createTodo service
+    updateTodo service
+    deleteTodo service
+3. model   
+    connect to mongodb
+4. module 
+    todoModule so that connect todos module to main app
+
+
+Features
+1. crud operations todos (create, update, read, delete)
+2. pagination service side 
+3. infinite scrolling 
+4. spinner
+5. skeleton
+6. save data with timestamp
+7. add login and register for adding todos
+8. comment on todos
+9. user profile
+10. forgot password
+11. loader
+12. increate api response
+13. decrease number of api call
+14. optimise application
+15. eslint
+16. prettier
+17. unit testing
+18. internationalization
+19. responsive (implement all the foundamental of html, css, sass)
+20. add notification if someone commented on your todo task
+21. 
+
+
+API Response should be
+{
+    "code": 200,
+    "metadata": {
+        "pagination": {
+            "total": 123,
+            "pages": 54,
+            "page": 1,
+            "limit": 20
+        }
+    },
+    "data": [
+        {"id": 23, "title":"asdf", "description": "asdf", "price":2342},
+        {"id": 23, "title":"asdf", "description": "asdf", "price":2342},
+        {"id": 23, "title":"asdf", "description": "asdf", "price":2342},
+        {"id": 23, "title":"asdf", "description": "asdf", "price":2342},
+        {"id": 23, "title":"asdf", "description": "asdf", "price":2342}
+    ]
+}
